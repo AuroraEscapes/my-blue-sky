@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Nope
-image: /img/home-jumbotron.jpg
+title: My Blue Sky
+image: /img/nature-horizon-cloud-sky-sunlight-atmosphere-1248502-pxhere.com.jpg
 heading: This is a new blog!
-subheading: Support sustainable farming while enjoying a cup
+subheading: Discover Your Dreams
 mainpitch:
   title: Why Kaldi
   description: >
