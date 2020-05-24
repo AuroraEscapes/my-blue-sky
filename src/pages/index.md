@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Hello new blog
+title: Nope
 image: /img/home-jumbotron.jpg
 heading: This is a new blog!
 subheading: Support sustainable farming while enjoying a cup
